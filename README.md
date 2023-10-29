@@ -35,4 +35,3 @@ The **Study Notion EdTech Platform** is a full-stack project developed using the
 - Data Visualization: Chart.js
 - UI Components: React-Stars, Swipe Slider, and more.
 
-
