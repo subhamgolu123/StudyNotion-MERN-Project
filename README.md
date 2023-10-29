@@ -1,7 +1,7 @@
 # StudyNotion Edtech Project
 
 The **Study Notion EdTech Platform** is a full-stack project developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It is designed to facilitate online learning, allowing students to enroll in courses, instructors to create and manage courses, and interactive features for both instructors and students.
-##LIVE WEBSITE LINK: https://studynotionplatform.vercel.app/
+<!-- ##LIVE WEBSITE LINK: https://studynotionplatform.vercel.app/ -->
 
 ## Features
 
@@ -35,11 +35,4 @@ The **Study Notion EdTech Platform** is a full-stack project developed using the
 - Data Visualization: Chart.js
 - UI Components: React-Stars, Swipe Slider, and more.
 
-## Getting Started
 
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/himanshuyadav14/StudyNotion-Hosting.git
